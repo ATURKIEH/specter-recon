@@ -1,1 +1,3 @@
-Install NMAP, NIKTO, FFUF, GAU, GOSPIDER
+# SPECTER-RECON
+# No external Python dependencies required.
+# Uses Python standard library only.

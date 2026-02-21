@@ -79,8 +79,9 @@ Python
 Python 3.10+
 
 Install Python dependencies:
-
+```bash
   pip install -r requirements.txt
+```
   External Tools (Required)
 
 Ensure the following tools are installed and available in PATH:
@@ -162,3 +163,4 @@ This tool is intended only for:
  - Authorized Pen-testing
  - Lab environments
  - Educational purposes
+

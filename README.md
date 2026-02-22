@@ -6,6 +6,9 @@
 ![Status](https://img.shields.io/badge/Status-Production--Ready-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+
+<img width="531" height="223" alt="image" src="https://github.com/user-attachments/assets/e86bf2e3-d23b-47be-a1f5-9a34c200e1be" />
+
 SPECTER-RECON is a modular reconnaissance automation framework designed to perform structured enumeration against authorized targets.
 
 It integrates subdomain discovery, port scanning, service detection, web enumeration, crawling, SMB analysis, and structured reporting into a single automated pipeline.
@@ -163,4 +166,5 @@ This tool is intended only for:
  - Authorized Pen-testing
  - Lab environments
  - Educational purposes
+
 

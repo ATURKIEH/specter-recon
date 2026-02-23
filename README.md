@@ -73,7 +73,7 @@ run/<target_timestamp>/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/specter-recon.git
+git clone https://github.com/ATURKIEH/specter-recon.git
 cd specter-recon
 ```
 ## 📦 Requirements
@@ -166,5 +166,6 @@ This tool is intended only for:
  - Authorized Pen-testing
  - Lab environments
  - Educational purposes
+
 
 
